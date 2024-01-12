@@ -37,7 +37,7 @@ To get started with the project, follow these steps:
 ## Acknowledgments
 We acknowledge Kaggle for hosting the competition and providing a platform for collaborative data science projects. Special thanks to the community for their engagement and contributions.
 
-## Contributer of this project
+## Contributers of this project
 Spencer Stromback, Jessica Cheng, Cindy Wang, Cody Ortloff, Yumi Yu
 
 This README serves as a comprehensive guide to understanding the Scrabble Player Rating Prediction project, its goals, and the steps involved in data preprocessing, feature engineering, and model development.
