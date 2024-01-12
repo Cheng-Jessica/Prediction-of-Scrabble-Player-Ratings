@@ -24,6 +24,7 @@ This project report outlines a systematic approach to solving the challenge. The
 4. Model Development and Comparison
 - Random Forest, XGBoost, and LightGBM: Experiment with these machine learning models using optimized hyperparameters.
 5. Model Selection: Choose the best-performing model for accurate player rating predictions.
+6. detailed presentation about this project, please refer to this link (https://youtu.be/bA-c_ZJ_SOk)
 
 
 ## Getting Started
